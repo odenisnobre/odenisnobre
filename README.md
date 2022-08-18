@@ -1,7 +1,7 @@
 ### Olá pessoal, sou Denis Nobre 👋
 
 ##### Resumo da minha atuação no github:
-![Denis Nobre](https://github-readme-stats.vercel.app/api?username=dedynobre&show_icons=true&theme=radical)
+![Denis Nobre](https://github-readme-stats.vercel.app/api?username=odenisnobre&show_icons=true&theme=radical)
 
 #### Aqui estão algumas informações sobre min:
 
