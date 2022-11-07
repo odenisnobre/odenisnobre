@@ -3,9 +3,11 @@
 ##### Resumo da minha atuação no github:
 ![Denis Nobre](https://github-readme-stats.vercel.app/api?username=odenisnobre&show_icons=true&theme=radical)
 
-#### Aqui estão algumas informações sobre min:
+#### Aqui estão algumas informações sobre mim:
 
-- Hoje trabalho com automação industrial especialista em integração de sistemas trabalhando com alguns sistemas, como:
+- Arquiteto de Soluções de OT/IoT, especialista em automação industrial e integração de sistemas.
+
+- Área/sistemas de atuação:
   - Programação Schneider - Unity Pro / Concept
   - Programação Rockwell - RSLogix / Studio 5000
   - Programação Siemens - Step7 / PCS7
@@ -13,7 +15,7 @@
   - Supervisório Factory Talk - Rockwell
   - Redes Industriais: Modbus TCP/RTU, Profibus PA/DP, Ethernet, DeviceNet
   - Inversores e Relés inteligentes de baixa e média tensão
-  - Sistema PIMS - PI - OSISoft
+  - Sistema PIMS - PI System - AVEVA/OSISoft
   - Sistema MES - Ampla - AVEVA
 - Tenho mais de 16 anos de experiência atuando nas áreas de automação e elétrica em empresas de grande porte
 - Sou ativo em comunidades de softwares aqui mesmo no GH e sempre que possível compartilho informações com a comunidade
