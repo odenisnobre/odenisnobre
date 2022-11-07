@@ -6,6 +6,8 @@
 #### Aqui estão algumas informações sobre mim:
 
 - Arquiteto de Soluções de OT/IoT, especialista em automação industrial e integração de sistemas.
+- Tenho mais de 17 anos de experiência atuando nas áreas de automação e elétrica em empresas de grande porte.
+- Sou ativo em comunidades de softwares aqui mesmo no GH e sempre que possível compartilho informações com a comunidade.
 
 - Área/sistemas de atuação:
   - Programação Schneider - Unity Pro / Concept
@@ -17,8 +19,6 @@
   - Inversores e Relés inteligentes de baixa e média tensão
   - Sistema PIMS - PI System - AVEVA/OSISoft
   - Sistema MES - Ampla - AVEVA
-- Tenho mais de 16 anos de experiência atuando nas áreas de automação e elétrica em empresas de grande porte
-- Sou ativo em comunidades de softwares aqui mesmo no GH e sempre que possível compartilho informações com a comunidade
 - Trabalho com algumas linguagens de programação como:
   - VBA
   - Javascript
